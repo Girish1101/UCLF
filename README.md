@@ -1,6 +1,6 @@
-# Lane Change Scheduling for Connected and Autonomous Vehicles
+# Effective Lane Change Scheduling Algorithm for Connected Autonomous Vehicles
 
-This project demonstrates the implementation of a lane change scheduling algorithm for Connected and Autonomous Vehicles (CAVs) using the **SUMO Traffic Simulator** and Python. The goal is to minimize total lane change scheduling time while ensuring safe and efficient traffic flow.
+This project demonstrates the implementation of an Effective lane change scheduling algorithm for Connected and Autonomous Vehicles (CAVs) using the **SUMO Traffic Simulator** and Python. The goal is to minimize total lane change scheduling time while ensuring safe and efficient traffic flow.
 
 ---
 
@@ -96,7 +96,7 @@ The script uses the [TraCI API](https://sumo.dlr.de/docs/TraCI.html) to:
 ## Explanation of Code Files
 
 #### Varoiuos Components of the project and Dataflow
-![Component Flow](https://github.com/gulamansari57181/lane_change_scheduling_CAV/blob/main/Flowcharts/Component_Flow.png?raw=true)
+![Component Flow](https://github.com/Girish1101/UCLF/blob/main/Images/Component_Flow.png?raw=true)
 
 ### `Basic_Test.net.xml`
 
