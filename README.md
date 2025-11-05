@@ -162,13 +162,13 @@ Total lane change scheduling time: 456.65 ms
 Below is a snapshot of the visual output generated during the simulation:
 
 #### Road Setup Visualization
-![Road Setup Visualization](https://github.com/gulamansari57181/lane_change_scheduling_CAV/blob/main/Flowcharts/road_setup_visualization.png?raw=true)
+![Road Setup Visualization](https://github.com/Girish1101/UCLF/blob/main/Images/road-setup.png?raw=true)
 
-#### SUMO Simulator Terminal Snapshot
-![SUMO Simulator Terminal Snapshot](https://github.com/gulamansari57181/lane_change_scheduling_CAV/blob/main/Flowcharts/Sumo_Simulator_Terminal_Snapshot.png?raw=true)
+#### Vehicle Positions Graph
+![SUMO Simulator Terminal Snapshot](https://github.com/Girish1101/UCLF/blob/main/Images/vehicle-positions-graph.png?raw=true)
 
 #### Lane Change Scheduling Time for Vehicles
-![Lane Change Scheduling Time](https://github.com/gulamansari57181/lane_change_scheduling_CAV/blob/main/Flowcharts/Lane_Change_Time_Graph.png?raw=true)
+![Lane Change Scheduling Time](https://github.com/Girish1101/UCLF/blob/main/Images/lane-change-velocity-graph.png?raw=true)
 
 
 
@@ -186,5 +186,5 @@ There are several potential enhancements for the lane change scheduling algorith
 - **Simulate Larger Road Networks and Traffic Conditions**: 
   Expand simulations to larger, more complex road networks with multi-lane highways, intersections, and varying traffic densities to evaluate the algorithm's scalability, adaptability, and performance in real-world traffic scenarios.
 
-## Developer -  Mohd Gulam Ansari (gulamansari57181@gmail.com)
+## Developers -  Girish Sharma (sharmagirish0a26z@gmail.com)
    
